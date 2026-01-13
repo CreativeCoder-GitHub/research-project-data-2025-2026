@@ -1,6 +1,9 @@
 # Research Project Data 2025-2026: The Effect of Dopamine Exposure on Electroencephalogram Power Spectral Density
 This repository contains all of the data from the study entitled 'The Effect of Dopamine Exposure on Electroencephalogram Power Spectral Density.'
 
+## License
+All files in this repository are licensed under the CC-BY-4.0 license.
+
 ## File Structure
 The file structure of the repository is as follows:
 - main branch
