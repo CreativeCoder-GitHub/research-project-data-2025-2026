@@ -9,9 +9,11 @@ The file structure of the repository is as follows:
 - main branch
     - graphs
         - High_Mean_EEG_PSD.png
+        - Low_Mean_EEG_PSD_Without_Outliers.png
         - Low_Mean_EEG_PSD.png
         - Medium_Mean_EEG_PSD.png
         - No_Mean_EEG_PSD.png
+        - Quad_Graph_Mean_EEG_PSD_Without_Outliers.png
         - Quad_Graph_Mean_EEG_PSD.png
     - LICENSE
     - README.md
