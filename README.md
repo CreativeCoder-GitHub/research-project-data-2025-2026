@@ -2,7 +2,7 @@
 This repository contains all of the data from the study entitled 'The Effect of Dopamine Exposure on Electroencephalogram Power Spectral Density.'
 
 ## License
-All files in this repository are licensed under the CC-BY-4.0 license.
+All files in this repository are licensed under the CC-BY-4.0 license located in the LICENSE file found in the root of this repository.
 
 ## File Structure
 The file structure of the repository is as follows:
