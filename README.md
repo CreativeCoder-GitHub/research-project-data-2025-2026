@@ -43,5 +43,11 @@ The file structure of the repository is as follows:
             - Contains the graphs of each of the medium dopamine exposure trials. File name format is trial_X.png.
         - no_dopamine
             - Contains the graphs of each of the no dopamine exposure trials. File name format is trial_X.png.
+    - src (This folder contains all the source code.)
+        - simulation.py (Actual simulation code)
+        - calculations.py (Used to calculate certain values about data)
+        - mean_plot.py (Plots each IV level's mean EEG PSD as a separate graph with and without outliers)
+        - trial_plot.py (Plots every trial's EEG PSD)
+        - quad_mean_plot.py (Plots each IV level's mean EEG PSD as a singular graph; can remove or keep outliers)
     - LICENSE
     - README.md
